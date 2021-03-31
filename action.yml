@@ -1,4 +1,4 @@
-name: 'Microsoft Teams Notification'
+name: 'Microsoft Teams Notification Action'
 description: 'Send a custom notification message to a Microsoft Teams channel with GitHub repo details'
 author: 'jdcargile'
 branding:
