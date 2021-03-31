@@ -32,7 +32,7 @@ export function createMessageCard(
         target: [`${repoUrl}/actions/runs/${runId}`],
         '@type': 'ViewAction',
         name: 'View Workflow Run'
-      },
+      }
     ]
   }
   return messageCard
